@@ -1,0 +1,12 @@
+D:\Users\tasos\DesktopNew\VS PROJECTS\Client\Client\obj\Debug\Client.vbprojResolveAssemblyReference.cache
+D:\Users\tasos\DesktopNew\VS PROJECTS\Client\Client\obj\Debug\Client.Client.resources
+D:\Users\tasos\DesktopNew\VS PROJECTS\Client\Client\obj\Debug\Client.Resources.resources
+D:\Users\tasos\DesktopNew\VS PROJECTS\Client\Client\obj\Debug\Client.vbproj.GenerateResource.Cache
+D:\Users\tasos\DesktopNew\VS PROJECTS\Client\Client\obj\Debug\Client.vbproj.CoreCompileInputs.cache
+D:\Users\tasos\DesktopNew\VS PROJECTS\Client\Client\bin\Debug\Client.exe.config
+D:\Users\tasos\DesktopNew\VS PROJECTS\Client\Client\bin\Debug\Client.exe
+D:\Users\tasos\DesktopNew\VS PROJECTS\Client\Client\bin\Debug\Client.pdb
+D:\Users\tasos\DesktopNew\VS PROJECTS\Client\Client\bin\Debug\Client.xml
+D:\Users\tasos\DesktopNew\VS PROJECTS\Client\Client\obj\Debug\Client.exe
+D:\Users\tasos\DesktopNew\VS PROJECTS\Client\Client\obj\Debug\Client.xml
+D:\Users\tasos\DesktopNew\VS PROJECTS\Client\Client\obj\Debug\Client.pdb

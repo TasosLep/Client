@@ -1,0 +1,13 @@
+D:\Users\tasos\DesktopNew\VS PROJECTS\Client\Client\bin\Release\Client.exe.config
+D:\Users\tasos\DesktopNew\VS PROJECTS\Client\Client\bin\Release\Client.exe
+D:\Users\tasos\DesktopNew\VS PROJECTS\Client\Client\bin\Release\Client.pdb
+D:\Users\tasos\DesktopNew\VS PROJECTS\Client\Client\bin\Release\Client.xml
+D:\Users\tasos\DesktopNew\VS PROJECTS\Client\Client\obj\Release\Client.Client.resources
+D:\Users\tasos\DesktopNew\VS PROJECTS\Client\Client\obj\Release\Client.Resources.resources
+D:\Users\tasos\DesktopNew\VS PROJECTS\Client\Client\obj\Release\Client.vbproj.GenerateResource.Cache
+D:\Users\tasos\DesktopNew\VS PROJECTS\Client\Client\obj\Release\Client.vbproj.CoreCompileInputs.cache
+D:\Users\tasos\DesktopNew\VS PROJECTS\Client\Client\obj\Release\Client.exe
+D:\Users\tasos\DesktopNew\VS PROJECTS\Client\Client\obj\Release\Client.xml
+D:\Users\tasos\DesktopNew\VS PROJECTS\Client\Client\obj\Release\Client.pdb
+D:\Users\tasos\DesktopNew\VS PROJECTS\Client\Client\obj\Release\Client.vbprojResolveAssemblyReference.cache
+D:\Users\tasos\DesktopNew\VS PROJECTS\Client\Client\obj\Release\Client.UpdatesForm.resources
