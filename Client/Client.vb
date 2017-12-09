@@ -28,8 +28,8 @@ Public Class Client
         End If
 
         'auto scroll the bar
-        TextBoxChat.SelectionStart = TextBoxChat.Text.Length
-        TextBoxChat.ScrollToCaret()
+        '  TextBoxChat.SelectionStart = TextBoxChat.Text.Length
+        '  TextBoxChat.ScrollToCaret()
 
     End Sub
 
@@ -75,7 +75,7 @@ Public Class Client
 
     End Sub
 
-    Private Sub TextBoxName_KeyDown(ByVal sender As Object, ByVal e As System.Windows.Forms.KeyEventArgs) Handles TextBoxClient.KeyDown
+    Private Sub TextBoxName_KeyDown(ByVal sender As Object, ByVal e As System.Windows.Forms.KeyEventArgs) Handles TextBoxName.KeyDown
 
         If e.KeyCode = Keys.Enter Then
             e.SuppressKeyPress = True
@@ -84,7 +84,7 @@ Public Class Client
 
     End Sub
 
-    Private Sub TextBoxClient_KeyDown(ByVal sender As Object, ByVal e As System.Windows.Forms.KeyEventArgs) Handles TextBoxName.KeyDown
+    Private Sub TextBoxClient_KeyDown(ByVal sender As Object, ByVal e As System.Windows.Forms.KeyEventArgs) Handles TextBoxClient.KeyDown
 
         If e.KeyCode = Keys.Enter Then
             e.SuppressKeyPress = True
